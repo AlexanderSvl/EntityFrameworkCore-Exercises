@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp6.0\BookShop.Models.deps.json
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp6.0\BookShop.Models.dll
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp6.0\ref\BookShop.Models.dll
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp6.0\BookShop.Models.pdb
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.dll
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\ref\BookShop.Models.dll
+C:\Users\User\Desktop\05.Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp6.0\BookShop.Models.pdb
